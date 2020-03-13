@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Escolha seu professor</title>
+    <img src="logo.png" alt="logo" id="senai">
+</head>
+<body>
+    <div>
+    <i class="fa fa-home" id="casa">Inicío</i>
+    <i class="fa fa-question-circle id="perg">Ajuda</i>
+    <n>Sobre</n>
+    </div>
+        <input type="text" placeholder="Matrícula"/><br>
+        <input type="password" placeholder="Senha"/>
+    <button>Entrar</button>
+    <div>
+        <p>Esqueceu sua senha?</p>
+    </div>
+    
+</body>
+</html>
